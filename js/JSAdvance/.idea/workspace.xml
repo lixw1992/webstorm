@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42548c57-c414-4351-bdbb-64147d32168e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/06_闭包的缺点及解决.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/01_Object构造函数模式.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/02_对象字面量.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/03_工厂模式.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/04_自定义构造函数模式.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/05_构造函数+原型的组合模式.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/01_原型链继承.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/02_借用构造函数继承.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/03_组合继承.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/原型链继承.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/01_进程与线程.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="21" selection-start-line="22" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/02_浏览器内核.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/03_定时器引发的思考.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/补充/02_设置.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/补充/01_分号问题.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/补充/03_内存溢出与内存泄露.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/笔记/01_基础总结深入.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="290">
+                <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/work/01_基础总结深入/01_数据类型.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/04_JS是单线程的.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/05_事件循环模型.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/事件循环模型.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/06_Web Workers_测试.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/06_Web Workers_测试2.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/H5 Web Workers(多线程).png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/worker.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/02_执行上下文.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule2.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/00_引入.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/01_理解闭包.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/06_闭包的缺点及解决.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/04_闭包的生命周期.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/05_闭包的应用_自定义JS模块.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题2.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/03_闭包的作用.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题1.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/01_原型与原型链/06_面试题.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/04_作用域_面试题2.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/04_作用域_面试题.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/02_作用域与执行上下文.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/01_作用域.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/03_作用域链.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/03_执行上下文栈.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/01_变量提升与函数提升.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/04_执行上下文栈2.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/05_面试题.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/02_执行上下文.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/01_原型链继承.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/02_对象字面量.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/05_构造函数+原型的组合模式.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/01_基础总结深入/01_数据类型.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/02_常见的闭包.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/work/02_函数高级/01_原型与原型链/06_面试题.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/02_执行上下文.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/01_变量提升与函数提升.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/03_执行上下文栈.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/04_执行上下文栈2.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/05_面试题.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/01_作用域.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/02_作用域与执行上下文.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/03_作用域链.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/04_作用域_面试题.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/04_作用域_面试题2.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/00_引入.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/01_理解闭包.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/02_常见的闭包.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/04_闭包的生命周期.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/05_闭包的应用_自定义JS模块.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule2.js" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/06_闭包的缺点及解决.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题1.html" />
+        <option value="$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题2.html" />
+        <option value="$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/05_构造函数+原型的组合模式.html" />
+        <option value="$PROJECT_DIR$/work/03_对象高级/02_继承模式/01_原型链继承.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="567" />
+    <option name="width" value="1362" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="01_基础总结深入" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="03_对象高级" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="03_对象高级" type="462c0819:PsiDirectoryNode" />
+              <item name="01_对象创建模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="03_对象高级" type="462c0819:PsiDirectoryNode" />
+              <item name="02_继承模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="04_线程机制与事件机制" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="补充" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="work_blank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSAdvance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/node/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lixiuwei\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42548c57-c414-4351-bdbb-64147d32168e" name="Default Changelist" comment="" />
+      <created>1557235675491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557235675491</updated>
+      <workItem from="1557235677454" duration="194000" />
+      <workItem from="1557235884401" duration="763000" />
+      <workItem from="1557239602437" duration="240000" />
+      <workItem from="1557606697303" duration="5486000" />
+      <workItem from="1558017762505" duration="1066000" />
+      <workItem from="1558361962714" duration="6763000" />
+      <workItem from="1558450226056" duration="153000" />
+      <workItem from="1558450506492" duration="3208000" />
+      <workItem from="1558537971160" duration="4352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22225000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="454" y="0" width="1089" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31813866" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/笔记/02_函数高级.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/01_原型与原型链/06_面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/01_变量提升与函数提升.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/03_执行上下文栈.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/04_执行上下文栈2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/05_面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/01_作用域.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/02_作用域与执行上下文.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/03_作用域链.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/04_作用域_面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/03_作用域与作用域链/04_作用域_面试题2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/00_引入.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/01_理解闭包.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/02_常见的闭包.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/03_闭包的作用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/04_闭包的生命周期.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/05_闭包的应用_自定义JS模块.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/05_闭包的应用_自定义JS模块2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/06_闭包的缺点及解决.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/07_面试题2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/02_执行上下文与执行上下文栈/02_执行上下文.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_函数高级/04_闭包/myModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/01_Object构造函数模式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/02_对象字面量.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/03_工厂模式.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/04_自定义构造函数模式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/原型链继承.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/06_Web Workers_测试2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/H5 Web Workers(多线程).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/worker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/06_Web Workers_测试.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/补充/01_分号问题.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/01_原型链继承.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/02_借用构造函数继承.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/02_继承模式/03_组合继承.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/03_对象高级/01_对象创建模式/05_构造函数+原型的组合模式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/01_进程与线程.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="21" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/02_浏览器内核.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/03_定时器引发的思考.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/04_JS是单线程的.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/事件循环模型.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/04_线程机制与事件机制/05_事件循环模型.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/补充/02_设置.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/补充/03_内存溢出与内存泄露.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/01_基础总结深入.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/01_基础总结深入/01_数据类型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
