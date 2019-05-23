@@ -38,10 +38,10 @@ var a = 10;
 	arguments.callee
 		- 这个属性保存的是当前执行的函数对象
 * */
-//console.log(arguments.callee + "");
-//console.log(arguments.length);
+// console.log(arguments.callee + "");
+console.log(arguments.length);
 
-//console.log(exports);
-//console.log(module.exports == exports);
+console.log(exports);
+console.log(module.exports == exports);
 
 console.log(__dirname);
