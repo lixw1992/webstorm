@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a76a1f9-5a8c-48ff-9c68-12aec71387af" name="Default Changelist" comment="" />
+    <list default="true" id="6a76a1f9-5a8c-48ff-9c68-12aec71387af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/02_继承模式/03_组合继承.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/02_继承模式/03_组合继承.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,82 +15,139 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/4_AMD-RequireJS模块化教程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="832">
+                <caret line="85" column="4" lean-forward="true" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/6_ES6模块化教程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="480">
+                <caret line="81" column="33" lean-forward="true" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/js/lib/module1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/.babelrc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/JSAdvance/prepare/02_函数高级/04_闭包/06_闭包的缺点及解决.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/模块化_笔记.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1535" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/jquery.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/deprecated.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/callbacks.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/ajax.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/01.helloNode.js">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/dist/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8048">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="21" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/package.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/02.module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/03.module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/math.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/04.module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/package-lock.json">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/js/lib/app.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/笔记.txt">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/require.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="144">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/helloModule.js">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/js/lib/bundle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="226">
+              <caret line="11045" column="12" selection-start-line="11045" selection-start-column="12" selection-end-line="11045" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/angular.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="30704" column="31" lean-forward="true" selection-start-line="30704" selection-start-column="31" selection-end-line="30704" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/jquery-1.10.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="55" column="40" lean-forward="true" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -96,7 +156,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/06.npm.js">
+        <entry file="file://$PROJECT_DIR$/js/JSAdvance/prepare/02_函数高级/04_闭包/05_闭包的应用_自定义JS模块.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/modules/dataService.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -107,15 +176,82 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm/source/01.node/05.module.js">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/modules/alerter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="128">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/modules/dataService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="10" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/test1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/module1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/module2.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/module3.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/dist/bundle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>module</find>
+      <find>export</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,8 +261,16 @@
     <setting file="file://$PROJECT_DIR$/npm/source/01.node/math.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/npm/source/01.node/04.module.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/npm/source/01.node/05.module.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/02_继承模式/03_组合继承.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/3_CommonJS-Browserify模块化教程.md" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/npm/source/01.node/02.module.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/npm/source/01.node/03.module.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/modules/module2.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/modules/module1.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/modules/module3.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/dist/bundle.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,12 +279,22 @@
         <option value="$PROJECT_DIR$/npm/source/01.node/04.module.js" />
         <option value="$PROJECT_DIR$/npm/source/01.node/笔记.txt" />
         <option value="$PROJECT_DIR$/npm/source/01.node/package.json" />
+        <option value="$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/02_继承模式/03_组合继承.html" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/main.js" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/modules/dataService.js" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/test1.html" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/require.js" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/modules/alerter.js" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/index2.html" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/main.js" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/jquery-1.10.1.js" />
+        <option value="$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/dist/jquery.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="565" />
-    <option name="width" value="1364" />
+    <option name="width" value="1365" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -151,6 +305,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,26 +316,208 @@
             <path>
               <item name="origin" type="b2602c69:ProjectViewProjectNode" />
               <item name="origin" type="462c0819:PsiDirectoryNode" />
-              <item name="npm" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="origin" type="b2602c69:ProjectViewProjectNode" />
               <item name="origin" type="462c0819:PsiDirectoryNode" />
-              <item name="npm" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="origin" type="b2602c69:ProjectViewProjectNode" />
               <item name="origin" type="462c0819:PsiDirectoryNode" />
-              <item name="npm" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="01.node" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="02_函数高级" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="JSAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="02_函数高级" type="462c0819:PsiDirectoryNode" />
+              <item name="04_闭包" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="04_AMD-RequireJS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="04_AMD-RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="02_RequireJS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="04_AMD-RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="02_RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="04_AMD-RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="02_RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="04_AMD-RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="02_RequireJS" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="06_ES6_Babel_Browserify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="06_ES6_Babel_Browserify" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="06_ES6_Babel_Browserify" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="06_ES6_Babel_Browserify" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="06_ES6_Babel_Browserify" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="01_modular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="06_ES6_Babel_Browserify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="modular" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ModularTest" type="462c0819:PsiDirectoryNode" />
+              <item name="教程_笔记" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +526,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/node/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,6 +552,9 @@
       <option name="presentableId" value="Default" />
       <updated>1558625696927</updated>
       <workItem from="1558625698095" duration="1758000" />
+      <workItem from="1558966961284" duration="1623000" />
+      <workItem from="1559135146602" duration="5784000" />
+      <workItem from="1559140964515" duration="4594000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1558627421454</created>
@@ -226,26 +567,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1758000" />
+    <option name="totallyTimeSpent" value="13759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17371202" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19220607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3281471" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,35 +602,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/npm/source/01.node/helloModule.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
+        <state relative-caret-position="160">
           <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/math.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -312,32 +626,295 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/04.module.js">
+    <entry file="file://$PROJECT_DIR$/js/JSAdvance/work/02_函数高级/01_原型与原型链/01_原型(prototype).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/01_对象创建模式/05_构造函数+原型的组合模式.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/02_继承模式/原型链继承.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/JSAdvance/work/03_对象高级/02_继承模式/03_组合继承.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="352">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/03.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="8" />
+    <entry file="file://$PROJECT_DIR$/modular/教程_笔记/1_模块化进化史教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="559">
+            <caret line="178" column="29" selection-start-line="178" selection-start-column="29" selection-end-line="178" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/02.module.js">
+    <entry file="file://$PROJECT_DIR$/modular/教程_笔记/2_CommonJS_Node模块化教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/work/01_modular/05_load script/test5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/modules/module1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/modules/module2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/modules/module3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/node_modules/uniq/uniq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/02_CommonJS-Node/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/教程_笔记/3_CommonJS-Browserify模块化教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/3_CommonJS-Browserify模块化教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1056">
+            <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/modules/alerter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npm/source/01.node/01.helloNode.js">
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="92" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/JSAdvance/prepare/02_函数高级/04_闭包/05_闭包的应用_自定义JS模块.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/modules/alerter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/modules/dataService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="10" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/01_NoAMD/test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/module1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/module2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/module3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/src/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/03_CommonJS-Browserify/js/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/jquery-1.10.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="55" column="40" lean-forward="true" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/modules/dataService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/04_AMD-RequireJS/02_RequireJS/js/libs/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="30704" column="31" lean-forward="true" selection-start-line="30704" selection-start-column="31" selection-end-line="30704" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/4_AMD-RequireJS模块化教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="832">
+            <caret line="85" column="4" lean-forward="true" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/6_ES6模块化教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="480">
+            <caret line="81" column="33" lean-forward="true" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/js/lib/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/js/lib/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="11045" column="12" selection-start-line="11045" selection-start-column="12" selection-end-line="11045" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/js/lib/module1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/JSAdvance/prepare/02_函数高级/04_闭包/06_闭包的缺点及解决.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/教程_笔记/模块化_笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1535" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/deprecated.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/callbacks.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/src/ajax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/code/ModularTest/prepare/06_ES6_Babel_Browserify/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8048">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
